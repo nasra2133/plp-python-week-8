@@ -1,0 +1,26 @@
+PERSONAL MINI-TOOLKIT PLAN
+
+1. SIMPLE CALCULATOR
+   This tool allows users to add, subtract, multiply and divide numbers.
+   Concepts: Variables, input, conditionals and f-strings.
+
+2. TO-DO LIST
+   This tool allows users to add tasks and view their saved tasks.
+   Concepts: Lists, loops and input.
+
+3. NUMBER CHECKER
+   This tool checks whether a number is positive, negative or zero.
+   Concepts: Variables, input and conditionals.
+
+MENU TEXT
+
+Welcome to My Personal Mini-Toolkit!
+
+1. Simple Calculator
+2. To-Do List
+3. Number Checker
+4. Quit
+
+Choose an option (1-4):
+
+The program will keep displaying the menu until the user chooses Quit.
